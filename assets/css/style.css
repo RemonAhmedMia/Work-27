@@ -594,3 +594,20 @@ h5.site-border {
 /* ============================================================== 
      # Start Skills Css
 =================================================================== */
+
+.chooseus-style-one-thumb {
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-end;
+	margin-bottom: -120px;
+	position: relative;
+	bottom: -120px;
+}
+
+.choose-us-style-one-area {
+    padding: 120px 0;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+}
