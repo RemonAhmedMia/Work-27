@@ -476,7 +476,7 @@ h2.first-child {
     font-size: 24px;
 }
 
-h5.site-border {
+.skill-style-one-content h5.site-border {
     color: var(--white);
     font-size: 23px;
     font-weight: 700;
@@ -486,6 +486,23 @@ h5.site-border {
     padding: 10px 20px;
     border-radius: 5px;
 	margin-bottom: 20px;
+}
+
+h5.site-border{
+	text-transform: uppercase;
+    color: #1351d8;
+    font-weight: 600;
+    background: var(--bg-gradient);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+    position: relative;
+    z-index: 1;
+    border: 1px solid #cccccc;
+    padding: 7px 15px;
+    border-radius: 5px;
+    font-size: 20px;
 }
 
 .skill-style-one-content h3 {
@@ -650,5 +667,21 @@ h5.site-border {
 }
 
 /* ============================================================== 
-     # Start Skills Css
+     # Start Team Css
+=================================================================== */
+
+.team-style-one-area {
+    padding: 120px 0;
+}
+
+.team-one-heading h3 {
+    font-size: 50px;
+    text-transform: capitalize;
+    font-weight: 700;
+    line-height: 1.2;
+    margin-top: 15px;
+}
+
+/* ============================================================== 
+     # Start Team Css
 =================================================================== */
