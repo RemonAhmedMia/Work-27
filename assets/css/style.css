@@ -711,5 +711,15 @@ h5.site-border{
 }
 
 /* ============================================================== 
-     # Start Team Css
+     # Start Blog Css
 =================================================================== */
+
+.blog-style-one-area {
+    padding: 120px 0;
+}
+
+.blog-one-heading h3 {
+    font-size: 55px;
+    font-weight: 700;
+    padding-top: 20px;
+}
