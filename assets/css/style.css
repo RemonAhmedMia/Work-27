@@ -731,6 +731,7 @@ h5.site-border{
 .blog-style-one-item {
     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
     padding: 20px;
+	margin-top: 30px;
 }
 
 .blog-style-one-item .thumb {
