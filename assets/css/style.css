@@ -632,6 +632,22 @@ h5.site-border {
     padding-bottom: 20px;
 }
 
+.chooseus-one-item ul li i {
+    border: 1px solid var(--color-primary);
+    padding: 5px;
+    margin-right: 10px;
+	color: var(--color-primary);
+}
+
+.chooseus-one-item ul li {
+    margin-bottom: 20px;
+}
+
+.chooseus-one-item ul li span {
+    font-size: 18px;
+    font-weight: 600;
+}
+
 /* ============================================================== 
      # Start Skills Css
 =================================================================== */
