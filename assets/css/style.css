@@ -682,6 +682,34 @@ h5.site-border{
     margin-top: 15px;
 }
 
+.team-style-one-item .thumb img {
+    width: 100%;
+    border-radius: 50%;
+}
+
+.team-style-one-item .thumb {
+    padding: 15px;
+    position: relative;
+    background-size: cover;
+    max-width: 350px;
+    margin: auto auto 30px;
+}
+
+.team-style-one-item {
+	margin-top: 30px;
+}
+
+.team-style-one-item .info h4 {
+    font-size: 30px;
+    font-weight: 600;
+    padding-bottom: 5px;
+}
+
+.team-style-one-item .info span {
+    text-transform: uppercase;
+    font-size: 18px;
+}
+
 /* ============================================================== 
      # Start Team Css
 =================================================================== */
