@@ -723,3 +723,40 @@ h5.site-border{
     font-weight: 700;
     padding-top: 20px;
 }
+
+.blog-style-one-item .thumb img {
+    width: 100%;
+}
+
+.blog-style-one-item {
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    padding: 20px;
+}
+
+.blog-style-one-item .thumb {
+    margin-bottom: 20px;
+}
+
+.blog-style-one-item .info h4 {
+    font-size: 22px;
+    line-height: 1.4;
+    padding-bottom: 15px;
+	color: var(--color-heading);
+}
+
+.blog-style-one-item .info a.btn-md i {
+    background: var(--color-primary);
+    height: 45px;
+    width: 45px;
+    line-height: 45px;
+    text-align: center;
+    font-size: 20px;
+    margin-right: 10px;
+    border-radius: 50%;
+	color: var(--white);
+}
+
+.blog-style-one-item .info a.btn-md {
+	font-size: 18px;
+	font-weight: 600;
+}
