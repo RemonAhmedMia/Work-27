@@ -592,7 +592,7 @@ h5.site-border {
 }
 
 /* ============================================================== 
-     # Start Skills Css
+     # Start Chooseus Css
 =================================================================== */
 
 .chooseus-style-one-thumb {
@@ -611,3 +611,27 @@ h5.site-border {
     overflow: hidden;
     z-index: 1;
 }
+
+.chooseus-style-one-content h3 {
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 1.2;
+    text-transform: capitalize;
+    padding-bottom: 15px;
+}
+
+.chooseus-style-one-content p {
+    font-size: 17px;
+    line-height: 1.7;
+    padding-bottom: 18px;
+}
+
+.chooseus-style-one-content .chooseus-one-item h4 {
+    font-size: 37px;
+    font-weight: 700;
+    padding-bottom: 20px;
+}
+
+/* ============================================================== 
+     # Start Skills Css
+=================================================================== */
