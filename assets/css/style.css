@@ -761,3 +761,31 @@ h5.site-border{
 	font-size: 18px;
 	font-weight: 600;
 }
+
+/* ============================================================== 
+     # Start Footer Css
+=================================================================== */
+
+.footer-style-one-area {
+    padding: 120px 0;
+    background-size: cover;
+    background-position: center;
+}
+
+.footer-style-one-left img {
+    width: 180px;
+    margin-bottom: 15px;
+}
+
+.footer-style-one-left p {
+    font-size: 18px;
+    line-height: 1.7;
+    padding-bottom: 15px;
+}
+
+.footer-style-one-left ul h4 {
+    color: white;
+    text-transform: uppercase;
+    font-size: 25px;
+    padding-bottom: 16px;
+}
