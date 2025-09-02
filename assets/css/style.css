@@ -789,3 +789,27 @@ h5.site-border{
     font-size: 25px;
     padding-bottom: 16px;
 }
+
+.footer-style-one-item h4 {
+    color: white;
+    font-size: 25px;
+    font-weight: 500;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+}
+
+ul.footer-list-item li a {
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+ul.footer-list-item li {
+    margin-bottom: 10px;
+}
+
+.footer-style-one-item p {
+    font-size: 18px;
+    line-height: 1.7;
+    padding-bottom: 20px;
+}
