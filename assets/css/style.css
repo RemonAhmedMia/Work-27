@@ -281,6 +281,26 @@ a, .btn, button {
 	color: var(--color-heading);
 } */
 
+a.btn-theme {
+    background: var(--dark);
+    padding: 12px 30px;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: var(--white);
+    border-radius: 2px;
+    margin-right: 10px;
+}
+
+a.btn-md {
+    border: 1px solid var(--dark);
+    padding: 12px 30px;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 600;
+    border-radius: 2px;
+}
+
 .progress-wrap {
 	position: fixed;
 	right: 50px;
