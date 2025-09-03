@@ -32,14 +32,72 @@
 /* MObile Layout: 576px.*/
 
 @media (min-width: 576px) and (max-width: 767.98px) { 
+    /* Service Responsive */
+    .service-style-one-heading h3 {
+    font-size: 42px;
+}
 
+/* Banner Responsive */
+
+.service-style-one-item {
+    text-align: center;
+}
+
+.banner-style-one-item h2 {
+    font-size: 52px;
+}
+
+.banner-style-one-item .content {
+    padding: 0;
+}
+
+.banner-style-one-item .first-child {
+    padding: 0;
+}
+
+.banner-style-one-item {
+    text-align: center;
+}
 
 }
 
 /* MObile Layout: 576px.*/
 @media (max-width: 575.98px) { 
 
+    /* Service Responsive */
+    .service-style-one-heading h3 {
+    font-size: 35px;
+}
 
+.service-style-one-item {
+    text-align: center;
+}
 
+/* Banner Responsive */
+
+.service-style-one-item {
+    text-align: center;
+}
+
+.banner-style-one-item h2 {
+    font-size: 42px;
+}
+
+.banner-style-one-item .content {
+    padding: 0;
+}
+
+.banner-style-one-item .first-child {
+    padding: 0;
+}
+
+.banner-style-one-item {
+    text-align: center;
+}
+
+.banner-style-one-item .btn-theme {
+    margin-right: 0;
+    margin-bottom: 10px;
+}
 
 }
