@@ -59,9 +59,24 @@
     text-align: center;
 }
 
+/* Skill Responsive */
+
+.skill-style-one-content h3 {
+    font-size: 40px;
 }
 
-/* MObile Layout: 576px.*/
+.progressbar strong {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    margin-top: -27px;
+    font-size: 24px;
+}
+
+}
+
+/* Mobile Layout: 576px.*/
 @media (max-width: 575.98px) { 
 
     /* Service Responsive */
@@ -98,6 +113,29 @@
 .banner-style-one-item .btn-theme {
     margin-right: 0;
     margin-bottom: 10px;
+}
+
+/* Skill Responsive */
+
+.skill-style-one-content h3 {
+    font-size: 35px;
+}
+
+.skill-style-one-content {
+    text-align: center;
+}
+
+.progressbar strong {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    margin-top: -27px;
+    font-size: 24px;
+}
+
+.progressbar h4 {
+    font-size: 16px;
 }
 
 }
