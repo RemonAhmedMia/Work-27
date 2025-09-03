@@ -27,6 +27,11 @@
     padding-left: 0 !important;
 }
 
+.chooseus-style-one-thumb {
+    bottom: 0;
+    margin-bottom: 0;
+}
+
 }
 
 /* MObile Layout: 576px.*/
@@ -72,6 +77,11 @@
     transform: translate(-50%, -50%);
     margin-top: -27px;
     font-size: 24px;
+}
+
+.chooseus-style-one-thumb {
+    bottom: 0;
+    margin-bottom: 0;
 }
 
 }
@@ -136,6 +146,11 @@
 
 .progressbar h4 {
     font-size: 16px;
+}
+
+.chooseus-style-one-thumb {
+    bottom: 0;
+    margin-bottom: 0;
 }
 
 }
